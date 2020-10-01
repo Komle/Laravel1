@@ -4,9 +4,9 @@
 				<div class="oflow-hidden color-ash font-9 text-sm-center ptb-sm-5">
 				
 					<ul class="float-left float-sm-none list-a-plr-10 list-a-plr-sm-5 list-a-ptb-15 list-a-ptb-sm-10">
-						<li><a class="pl-0 pl-sm-10" href="#">About</a></li>
-						<li><a href="#">Advertise</a></li>
-						<li><a href="#">Submit Press Release</a></li>
+						<li><a class="pl-0 pl-sm-10" href="/new">About</a></li>
+						<li><a href="/advertise">Advertise</a></li>
+						<li><a href="/post">Submit Post</a></li>
 						<li><a href="#">Contact</a></li>
 					</ul>
 					<ul class="float-right float-sm-none list-a-plr-10 list-a-plr-sm-5 list-a-ptb-15 list-a-ptb-sm-5">

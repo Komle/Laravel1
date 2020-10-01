@@ -1,7 +1,7 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Newsbit</title>
+	<title>ABOUT</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="UTF-8">
@@ -20,31 +20,10 @@
 	
 	
 </head>
-<body>
-	
 @include('_partials/header')
-@include('_partials/body_virsus')
-	
-	
-	<section>
-		<div class="container">
-			<div class="row">
-@yield('content')
-				
-			</div><!-- row -->
-		</div><!-- container -->
-	</section>
-@include('_partials/footer')
-	
-	<!-- SCIPTS -->
-	
-	<script src="plugin-frameworks/jquery-3.2.1.min.js"></script>
-	
-	<script src="plugin-frameworks/tether.min.js"></script>
-	
-	<script src="plugin-frameworks/bootstrap.js"></script>
-	
-	<script src="common/scripts.js"></script>
-	
+<body>
+<img class="fotke" src="/images/Runescape-Gold2.png" alt="RuneGP" width="50px" height="50px">
+    <p style = 'text-align:center;'>FAST DELIVERY IR T.T</p>
 </body>
+@include('_partials/footer')
 </html>

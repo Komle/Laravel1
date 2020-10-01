@@ -12,5 +12,15 @@
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('/pages/naujienos_virsus');
+});
+
+Route::get('/new', function () {
+    return view('/pages/random');
+});
+Route::get('/advertise', function () {
+    return view('/pages/advertise');
+});
+Route::get('/post', function () {
+    return view('/pages/newblog');
 });
